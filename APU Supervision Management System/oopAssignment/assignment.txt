@@ -1,0 +1,15 @@
+A001,Sup001,Aman,TP001,Jenny Lim,UCDF2401,Computing,Active
+A002,Sup001,Aman,TP006,Brandon Yeo,UCDF2402,Computing,Active
+A003,Sup001,Aman,TP009,Natasha Lee,UCDF2403,Computing,Active
+A004,Sup003,Amelia,TP003,Chloe Tan,UCDF2401,Information Technology,Active
+A005,Sup001,Aman,TP013,Grace Wong,UCDF2404,Computing,Active
+A006,Sup003,Amelia,TP011,Farah Izzah,UCDF2403,Information Technology,Active
+A007,Sup004,Ali,TP017,Leona Goh,UCDF2405,Computing,Active
+A008,Sup003,Amelia,TP007,Hannah Ong,UCDF2402,Information Technology,Active
+A009,Sup003,Amelia,TP016,Irfan Zain,UCDF2404,Information Technology,Active
+A010,Sup003,Amelia,TP019,Rachel Tan,UCDF2405,Information Technology,Active
+A011,Sup002,Brandon,TP021,Brandon Lim,UCDF2410,Accounting,Active
+A012,Sup002,Brandon,TP022,Ken Lim,UCDF2410,Accounting,Active
+A013,Sup005,Benny,TP002,Ahmad Zaki,UCDF2401,Software Engineering,Active
+A014,Sup005,Benny,TP005,Aisha Rahman,UCDF2402,Software Engineering,Active
+A015,Sup005,Benny,TP008,Rajesh Kumar,UCDF2402,Software Engineering,Active

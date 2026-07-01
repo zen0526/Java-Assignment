@@ -1,0 +1,34 @@
+Sup001,pass0001,Supervisor,0
+Sup002,pass0002,Supervisor,0
+Sup003,password123,Supervisor,0
+FA002,pass02,Faculty Admin,0
+FA001,pass01,Faculty Admin,0
+FA003,pass03,Faculty Admin,0
+SA002,password02,System Admin
+FA003,pass03,Faculty Admin,0
+SA001,password01,System Admin
+TP001,pass001,Student,0
+TP002,pass002,Student,0
+TP002,pass002,Student,0
+TP003,pass003,Student,0
+TP004,pass004,Student,0
+TP005,pass005,Student,0
+TP006,pass006,Student,0
+TP007,pass007,Student,0
+TP008,pass008,Student,0
+TP009,pass009,Student,0
+TP010,pass010,Student,0
+TP011,pass011,Student,0
+TP012,pass012,Student,0
+TP013,pass013,Student,0
+TP014,pass014,Student,0
+TP015,pass015,Student,0
+TP016,pass016,Student,0
+TP017,pass017,Student,0
+TP018,pass018,Student,0
+TP020,pass019,Student,0
+TP020,pass019,Student,0
+Sup004,pass0004,Supervisor,0
+Sup005,pass0005,Supervisor,0
+TP021,pass021,Student,0
+TP022,pass022,Student,0

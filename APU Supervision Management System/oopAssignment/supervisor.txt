@@ -1,0 +1,5 @@
+Sup001,Aman,pass0001,aman@gmail.com,Male,2000-05-12,0122344567,Computing,4,block C,Active
+Sup002,Brandon,pass0002,brandon@gmail.com,Male,1992-04-20,0123345667,Accounting,2,block B,Active
+Sup003,Amelia,password123,amelia@gmail.com,Female,1990-03-09,0110293049,Information Technology,5,block A,Active
+Sup004,Ali,pass0004,ali@gmail.com,Male,1990-04-03,0222222222,Computing,1,block C,Active
+Sup005,Benny,pass0005,benny@gmail.com,Male,1999-08-07,0111111111,Software Engineering,3,block A,Active
